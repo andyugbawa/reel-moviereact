@@ -41,26 +41,31 @@ h1{
     height: 400px;
     border-radius: 10px; 
 }
+.top-container{
+    display: flex;
+    flex-direction:column ;
+    padding: 0  30px;
+}
 
 .top-content{
-    display: flex;
-    padding: 0  120px;
-    gap: 30px;
+    /* display: flex; */
+    padding: 0  0px;
+    gap: 0px;
 }
 .top-content1{
-    display: flex;
-    padding: 30px  120px;
-    gap: 30px;
+    /* display: flex; */
+    padding: 0px  10px;
+    gap: 0px;
 }
 .top-content2{
-    display: flex;
-    padding: 30px  120px;
-    gap: 30px;
+    /* display: flex; */
+    padding: 10px  0px;
+    gap: 0px;
 }
 .top-content3{
-    display: flex;
-    padding: 30px  120px;
-    gap: 30px;
+    /* display: flex; */
+    padding: 10px  0px;
+    gap: 0px;
 }
 
 .series-title{
@@ -69,13 +74,14 @@ h1{
 }
 .top-movies{
     font-weight: bolder;
+
 }
 
 
 .top-text{
-    width:400px;
-    height: 400px;
-    border-radius: 10px; 
+    /* width:400px; */
+    /* height: 400px; */
+    /* border-radius: 10px;  */
     /* border: 2px solid black; */
 }
 .series-container{
@@ -150,22 +156,22 @@ h1{
 .top-content{
     display: flex;
     padding: 0  50px;
-    gap: 30px;
+    gap: 15px;
 }
 .top-content1{
     display: flex;
     padding: 0px  50px;
-    gap: 30px;
+    gap: 10px;
 }
 .top-content2{
     display: flex;
     padding: 0px  50px;
-    gap: 30px;
+    gap: 10px;
 }
 .top-content3{
     display: flex;
     padding: 0px  50px;
-    gap: 30px;
+    gap: 10px;
 }
 
 .top-images{
@@ -177,6 +183,16 @@ h1{
     width:280px;
     height: 300px;
     border-radius: 10px;
+}
+.top-movies{
+    font-size: 12px;
+}
+
+.top-container{
+    display: flex;
+    flex-direction:column ;
+    /* padding: 0  30px; */
+    gap:20px ;
 }
 
 }
