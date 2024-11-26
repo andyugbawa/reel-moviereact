@@ -138,12 +138,12 @@ h1{
     .image-container1{
         flex-direction: column;
         justify-content: center;
-        padding: 0 60px;
+        padding: 0 20px;
     }
     .image-container2{
         flex-direction: column;
         justify-content: center;
-        padding: 0 60px;
+        padding: 0 20px;
     }
 
     
