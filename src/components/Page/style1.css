@@ -44,7 +44,7 @@ h1{
 .top-container{
     display: flex;
     flex-direction:column ;
-    padding: 0  30px;
+    padding: 0  15px;
 }
 
 .top-content{
@@ -54,7 +54,7 @@ h1{
 }
 .top-content1{
     /* display: flex; */
-    padding: 0px  10px;
+    padding: 0px  0px;
     gap: 0px;
 }
 .top-content2{
@@ -111,7 +111,7 @@ h1{
     }
     
     .top-content{
-        padding: 0 50px; 
+        padding: 0 0px; 
     }
 
     .top-content1{
@@ -155,22 +155,22 @@ h1{
     
 .top-content{
     display: flex;
-    padding: 0  50px;
+    padding: 0  14px;
     gap: 15px;
 }
 .top-content1{
     display: flex;
-    padding: 0px  50px;
+    padding: 0px  14px;
     gap: 10px;
 }
 .top-content2{
     display: flex;
-    padding: 0px  50px;
+    padding: 0px  14px;
     gap: 10px;
 }
 .top-content3{
     display: flex;
-    padding: 0px  50px;
+    padding: 0px  14px;
     gap: 10px;
 }
 
@@ -191,7 +191,7 @@ h1{
 .top-container{
     display: flex;
     flex-direction:column ;
-    /* padding: 0  30px; */
+    padding: 0  0px;
     gap:20px ;
 }
 
