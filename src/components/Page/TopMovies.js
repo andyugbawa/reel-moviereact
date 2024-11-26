@@ -16,7 +16,7 @@ const TopMovies = () => {
 <div className='top-container'>
    <div className='top-content'>
    <div>
-      <img src="./images/sonic3.jpeg" alt="image" className='top-images'/>
+      <img src="./images/sonic3.jpeg" alt="show" className='top-images'/>
    </div>
       <div className='top-text'>
          <p className='top-movies'>SONIC3</p>
@@ -25,7 +25,7 @@ const TopMovies = () => {
 
    <div className='top-content1'>
    <div>
-      <img src="./images/fall guy.jpeg" alt="image" className='top-images'/>
+      <img src="./images/fall guy.jpeg" alt="show" className='top-images'/>
    </div>
       <div className='top-text'>
          <p className='top-movies'>THE FALL GUY</p>
@@ -33,7 +33,7 @@ const TopMovies = () => {
    </div>
    <div className='top-content2'>
    <div>
-      <img src="./images/challengers.jpeg" alt="image" className='top-images'/>
+      <img src="./images/challengers.jpeg" alt="show" className='top-images'/>
    </div>
       <div className='top-text'>
          <p className='top-movies'>THE CHALLENGERS</p>
@@ -41,7 +41,7 @@ const TopMovies = () => {
    </div>
    <div className='top-content3'>
    <div>
-      <img src="./images/outrun.jpeg" alt="image" className='top-images'/>
+      <img src="./images/outrun.jpeg" alt="show" className='top-images'/>
    </div>
       <div className='top-text4'>
          <p className='top-movies'>THE OUTRUN</p>
