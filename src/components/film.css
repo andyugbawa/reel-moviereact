@@ -218,7 +218,7 @@ p{
     color: #fff;
     font-size: 20px;
     font-weight: bolder;
-    cursor: pointer;
+    cursor: pointer;  
 }
 .return-btn{
     display: flex;
@@ -342,7 +342,6 @@ p{
 
    .nav_toggler div{
     display: block;
-    /* padding: 0 30px 0 0; */
     margin-right: 50px;
    }
    
@@ -366,8 +365,9 @@ p{
 
 
 .display-images{
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
+    border-radius: 8px;
 }
 
 
